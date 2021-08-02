@@ -1,1 +1,1 @@
-slides can be user using "present" module, available on pypi.
+slides can be used using "present" module, available on pypi.
