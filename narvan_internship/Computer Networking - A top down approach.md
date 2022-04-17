@@ -21,7 +21,6 @@
 - store and forward transmission method
 - the forwarding table
 - circuit switching
-- circuit resources
 - multiplexing in circuit switching
 - access, regional and tier 1 ISPs
 - point of presence (POP)
@@ -30,3 +29,16 @@
 - internet exchange point (IXP)
 - content provider networks
 - networks structures
+- protocol layering
+- service model
+- the application layer
+- the transport layer
+- the network layer
+- the link layer
+- data frame encapsulation
+- payload vs header in data frames
+- DOS attacks
+- three primary types of DOS attacks
+- DDOS attacks
+- packet sniffing
+- IP spoofing
