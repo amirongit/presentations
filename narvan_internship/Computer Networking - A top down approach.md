@@ -11,4 +11,10 @@
 - protocols
 - primary types of hosts
 - access networks
-- the edge router
+- three major types of access network
+- data propagation through the route
+- two primary types of physical media
+- shared medium
+- packets
+- packet switches
+- two major types of packet switches
