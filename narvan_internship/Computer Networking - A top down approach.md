@@ -18,3 +18,15 @@
 - packets
 - packet switches
 - two major types of packet switches
+- store and forward transmission method
+- the forwarding table
+- circuit switching
+- circuit resources
+- multiplexing in circuit switching
+- access, regional and tier 1 ISPs
+- point of presence (POP)
+- multi homing
+- peered ISPs
+- internet exchange point (IXP)
+- content provider networks
+- networks structures
