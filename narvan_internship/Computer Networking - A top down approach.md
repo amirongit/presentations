@@ -52,5 +52,15 @@
 - things defined by an application layer protocol
 - HTTP being an stateless protocol
 - persistent and non-persistent connections
+- back to back vs parallel tcp connections when using HTTP
 - HTTP request structure
 - HTTP response structure
+- HTTP cookie components
+- web cache
+- conditional get
+- head of line blocking problem
+- HTTP/2 framing
+- HTTP/2 response prioritizing
+- HTTP/2 server pushing
+- components of E-mail
+- mail transfer proccess
