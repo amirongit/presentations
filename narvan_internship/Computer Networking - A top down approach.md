@@ -2,19 +2,13 @@
 
 ## Computer networks and the internet
 
-- primary types of devices connected to the internet
-- different communication links
 - a route or a path
 - ISP
 - RFC
-- distributed applications
 - protocols
 - primary types of hosts
 - access networks
-- three major types of access network
-- data propagation through the route
 - two primary types of physical media
-- shared medium
 - packets
 - packet switches
 - two major types of packet switches
@@ -42,3 +36,21 @@
 - DDOS attacks
 - packet sniffing
 - IP spoofing
+
+## Application layer
+
+- the level at which applications operate
+- client server architecture and datacenters
+- P2P architecture
+- the shared definition of server and client in the network application architectures
+- sockets
+- proccess addressing
+- socket vs port
+- dimensions of transport layer protocols
+- TCP provided services
+- TLS
+- things defined by an application layer protocol
+- HTTP being an stateless protocol
+- persistent and non-persistent connections
+- HTTP request structure
+- HTTP response structure
