@@ -45,7 +45,6 @@
 - the shared definition of server and client in the network application architectures
 - sockets
 - proccess addressing
-- socket vs port
 - dimensions of transport layer protocols
 - TCP provided services
 - TLS
@@ -61,6 +60,23 @@
 - head of line blocking problem
 - HTTP/2 framing
 - HTTP/2 response prioritizing
+- HTTP/2 response dependency
 - HTTP/2 server pushing
 - components of E-mail
 - mail transfer proccess
+- mail pulling methods
+- DNS
+- DNS resolve proccess
+- DNS load distribution
+- DNS hirearchy design
+- TLD name servers
+- authoritative name servers
+- local name servers
+- recursive vs iterative dns queries
+- dns caching
+- canonical and alias records
+- different types of DNS records
+- DASH
+- CDN
+- two CDN major design philosiphies
+- collaboration of DNS and CDN
