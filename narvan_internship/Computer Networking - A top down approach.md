@@ -66,9 +66,9 @@
 - mail transfer proccess
 - mail pulling methods
 - DNS
+- DNS hirearchy design
 - DNS resolve proccess
 - DNS load distribution
-- DNS hirearchy design
 - TLD name servers
 - authoritative name servers
 - local name servers
@@ -80,3 +80,10 @@
 - CDN
 - two CDN major design philosiphies
 - collaboration of DNS and CDN
+
+## Transport layer
+
+- transport layer's job
+- transport layer mltiplexing and demultiplexing
+- tcp vs udp socket
+- tcp three way hand shaking
