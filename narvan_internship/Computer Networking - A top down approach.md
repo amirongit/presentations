@@ -95,3 +95,14 @@
 - TCP three way handshake
 - AIMD algorithm
 - QUIC protocol
+
+## Security in computer networks
+
+- aspects of secure communication
+- symmetric key encryption
+- block ciphers
+- public key encryption
+- session key
+- message authentication code
+- digital signature using RSA
+- certification authority
