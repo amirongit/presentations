@@ -51,7 +51,7 @@
 - things defined by an application layer protocol
 - HTTP being an stateless protocol
 - persistent and non-persistent connections
-- back to back vs parallel tcp connections when using HTTP
+- back to back vs parallel TCP connections when using HTTP
 - HTTP request structure
 - HTTP response structure
 - HTTP cookie components
@@ -85,5 +85,13 @@
 
 - transport layer's job
 - transport layer mltiplexing and demultiplexing
-- tcp vs udp socket
-- tcp three way hand shaking
+- TCP vs UDP socket
+- principles of a reliable data transfer channel
+- MTU and MSS
+- sequence numbers for ack and data segments
+- random initial sequence numbers
+- determination of TCP timeout period
+- TCP flow control
+- TCP three way handshake
+- AIMD algorithm
+- QUIC protocol
