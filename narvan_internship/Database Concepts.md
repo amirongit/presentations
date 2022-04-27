@@ -26,3 +26,15 @@
 - BCNF
 - multivalued dependency
 - first five normal forms
+
+## Structured query language
+
+- five categories of SQL statements
+- CREATE statement
+- column constraints
+- table constraint
+- INSERT statement
+- SELECT statement
+- aggregate functions
+- subqueries
+- JOIN statement
