@@ -40,3 +40,25 @@
 - DELETE statement
 - DROP statement
 - ALTER statement
+
+## Data modeling and the entity-relationship model
+
+- requirement analysis stage
+- usecases
+- componenet design stage
+- E-R model
+- entities
+- attributes
+- properties and datatype of attributes
+- identifiers
+- relationships
+- maximum and minimum cardinality of relationships
+- weak and strong entities
+- ID dependeent entities
+- associative entities
+- subtype and supertype entities
+- the discriminator attribute
+- exclusive and inclusive subtypes
+- partial and total subtypes
+- is a and has a relationships
+- implementation stage
