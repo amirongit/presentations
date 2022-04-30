@@ -29,12 +29,14 @@
 
 ## Structured query language
 
-- five categories of SQL statements
 - CREATE statement
-- column constraints
-- table constraint
+- constraints
 - INSERT statement
 - SELECT statement
 - aggregate functions
 - subqueries
 - JOIN statement
+- UPDATE statement
+- DELETE statement
+- DROP statement
+- ALTER statement
