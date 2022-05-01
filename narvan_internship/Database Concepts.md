@@ -43,22 +43,28 @@
 
 ## Data modeling and the entity-relationship model
 
-- requirement analysis stage
-- usecases
-- componenet design stage
 - E-R model
 - entities
 - attributes
 - properties and datatype of attributes
 - identifiers
 - relationships
+- identifying relationships
 - maximum and minimum cardinality of relationships
 - weak and strong entities
-- ID dependeent entities
+- ID dependent entities
 - associative entities
 - subtype and supertype entities
 - the discriminator attribute
 - exclusive and inclusive subtypes
 - partial and total subtypes
 - is a and has a relationships
-- implementation stage
+
+## Database design
+
+- er to relation transportation
+- denormalizing
+- implementation of strong binary relationships
+- association relationship pattern
+- mixed entity pattern
+- table inheritance implementation
