@@ -68,3 +68,18 @@
 - association relationship pattern
 - mixed entity pattern
 - table inheritance implementation
+
+## Database administration
+
+- transactions
+- lost update problem
+- resource locking
+- explicit vs implicit lock
+- lock granularity
+- shared lock
+- deadlock
+- optimistic vs pessimistic locking
+- ACID transactions
+- dirty, nonrepeatable and phantom read
+- four level of isolation
+- GRANT and REVOKE statements
