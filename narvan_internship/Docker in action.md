@@ -12,7 +12,6 @@
 
 - detatched containers
 - interactive containers
-- images
 - daemons or services
 - linking containers
 - restarting containers
@@ -31,3 +30,18 @@
 - view proccesses running inside a container
 - entrypoint scripts
 - removing containers
+
+## Software installation simplified
+
+- images
+- repositories
+- tags
+- removing images
+- saving images
+- loading images
+- dockerfiles
+- building images from dockerfiles
+- layers
+- UFS
+- MNT
+- chroot
