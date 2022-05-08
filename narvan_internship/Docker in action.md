@@ -27,3 +27,7 @@
 - adding exceptions to readonly file systems
 - forwarding traffic from host ports to container ports
 - injecting environment variables to containers
+- recovery strategies
+- view proccesses running inside a container
+- entrypoint scripts
+- removing containers
