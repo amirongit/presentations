@@ -43,5 +43,16 @@
 - building images from dockerfiles
 - layers
 - UFS
-- MNT
 - chroot
+
+## working with storage and volumes
+
+- MNT namespaces
+- bind mounts
+- in memory storage
+- creating volumes
+- associating volumes to containers
+- sharing bind mounts and volumes between containers
+- anonymous voluems
+- sharing mountpoints between containers
+- copying volumes directly and transitively
