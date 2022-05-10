@@ -84,3 +84,8 @@
 - user id spaces
 - adding and dropping linux capabilities from containers
 - priviledged containers
+
+## Packaging software in images
+
+- the path way of creating an image from a container
+- reviewing filesystem changes on a container
