@@ -29,6 +29,7 @@
 - view proccesses running inside a container
 - entrypoint scripts
 - removing containers
+- inspecting metadata of docker entities
 
 ## Software installation simplified
 
@@ -53,7 +54,6 @@
 - associating volumes to containers
 - sharing bind mounts and volumes between containers
 - anonymous voluems
-- sharing mountpoints between containers
 - copying volumes directly and transitively
 
 ## Single host networking
@@ -68,3 +68,19 @@
 - bridge network driver
 - port publishing
 - adding custom hosts to /etc/hosts file in containers
+
+## Limiting risk with resource controls
+
+- default resource restrictions for docker containers
+- restrincting memory usage
+- memory reservation vs protection
+- relative CPU restriction
+- when relative CPU restrictions are enforced
+- explicit core/quota CPU restriction
+- sharing devices between a host and a container
+- IPC namespaces
+- sharing IPC namespaces between processes
+- specifying the run as user when creaeting containers
+- user id spaces
+- adding and dropping linux capabilities from containers
+- priviledged containers
