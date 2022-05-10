@@ -24,7 +24,6 @@
 - starting containers
 - readonly filesystems for containers
 - adding exceptions to readonly file systems
-- forwarding traffic from host ports to container ports
 - injecting environment variables to containers
 - recovery strategies
 - view proccesses running inside a container
@@ -56,3 +55,16 @@
 - anonymous voluems
 - sharing mountpoints between containers
 - copying volumes directly and transitively
+
+## Single host networking
+
+- default docker networks
+- network scopes
+- creating networks
+- attachable networks
+- connecting networks to running containers
+- the host special network
+- the none special network
+- bridge network driver
+- port publishing
+- adding custom hosts to /etc/hosts file in containers
