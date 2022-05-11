@@ -89,3 +89,12 @@
 
 - the path way of creating an image from a container
 - reviewing filesystem changes on a container
+- image attributes
+- how layers work and how files are resolved from a UFS
+- copy on change mechanism
+- explanation of images using the layers concept
+- what tags refer to
+- examining layers of an image
+- exporting flat filesystems
+- importing flat filesystems
+- proper tagging schema
