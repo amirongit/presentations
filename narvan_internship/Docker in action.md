@@ -40,7 +40,6 @@
 - saving images
 - loading images
 - dockerfiles
-- building images from dockerfiles
 - layers
 - UFS
 - chroot
@@ -98,3 +97,12 @@
 - exporting flat filesystems
 - importing flat filesystems
 - proper tagging schema
+
+## Building images automatically with Dockerfiles
+
+- dockerfiles
+- building images from dockerfiles
+- the special empty repository/image
+- dockerignore file
+- difference between shell and exec command forms
+- different behaviour of the image based on the entrypoint format
