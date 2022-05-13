@@ -105,4 +105,12 @@
 - the special empty repository/image
 - dockerignore file
 - difference between shell and exec command forms
-- different behaviour of the image based on the entrypoint format
+- command instructions for containers and when they are ignored
+- COPY instruction side effects
+- the default entrypoint
+- difference between COPY and ADD instructions
+- ONBUILD instruction
+- ARG instruction
+- multistage dockerfiles
+- healthchecks
+- appropriate way and time to set the default user
