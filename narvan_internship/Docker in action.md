@@ -96,7 +96,6 @@
 - examining layers of an image
 - exporting flat filesystems
 - importing flat filesystems
-- proper tagging schema
 
 ## Building images automatically with Dockerfiles
 
@@ -114,3 +113,10 @@
 - multistage dockerfiles
 - healthchecks
 - appropriate way and time to set the default user
+
+## Image piplines
+
+- all in one pattern
+- build plus runtime pattern
+- build plus multiple runtimes
+- semantic versioning
