@@ -13,3 +13,11 @@
 - data source layer
 - upward dependency on the presentaion layer rule
 - layers vs tiers
+
+### Organizing domain logic
+
+- transaction script pattern
+- domain model pattern
+- table module pattern
+- service layer
+- active records
